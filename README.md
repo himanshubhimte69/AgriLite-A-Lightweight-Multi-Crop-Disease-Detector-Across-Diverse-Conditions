@@ -1,0 +1,1 @@
+# AgriLite-A-Lightweight-Multi-Crop-Disease-Detector-Across-Diverse-Conditions
